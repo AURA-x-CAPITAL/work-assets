@@ -1,5 +1,5 @@
 {
-  "version": 0,
+  "version": "0",
   "body": {
     "type": "sign-raw-payload",
     "expires_sec": 1726239045,
