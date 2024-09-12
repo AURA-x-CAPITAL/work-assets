@@ -4,7 +4,9 @@
     "type": "sign-raw-payload",
     "expires_sec": 1726239045,
     "response_options": {
-        "broadcast": false
+        "callback_url": "https://google.com",
+      "return_url": "https://google.com",
+      "broadcast": true
     },
     "params": {
       "source": "0:c33739501e9d32dfe488c36d558f519306aedb475b8a421c438cb9ef7b5381a2",
