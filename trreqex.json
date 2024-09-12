@@ -1,9 +1,19 @@
 {
-  "source": "0:21feb5e84408868d73be48e57db8498146c97fc7773813f57f4b9c191f67ae8a",
-  "messages": [
-    {
-      "address": "0:21feb5e84408868d73be48e57db8498146c97fc7773813f57f4b9c191f67ae8a",
-      "amount": "1"
+  "version": 0,
+  "body": {
+    "type": "sign-raw-payload",
+    "expires_sec": 1726239045,
+    "response_options": {
+        "broadcast": false
+    },
+    "params": {
+      "source": "0:21feb5e84408868d73be48e57db8498146c97fc7773813f57f4b9c191f67ae8a",
+      "messages": [
+        {
+          "address": "0:21feb5e84408868d73be48e57db8498146c97fc7773813f57f4b9c191f67ae8a",
+          "amount": "1"
+        }
+      ]
     }
-  ]
+  }
 }
